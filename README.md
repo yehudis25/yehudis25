@@ -1,5 +1,4 @@
 ## Hi 👋, I'm Yehudis Schnaidman
-(https://github.com/yehudis25/yehudis25/blob/main/computer-program-coding-screen.jpg)
 
 - 🔭 I’m currently a Computer Science student at Maalot  
 - 🌱 I’m learning C# and discovering lots of new and exciting programming techniques  
